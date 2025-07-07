@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="MIT"
+[[mods]]
+modId="portalquest"
+version="0.0.1"
+displayName="Portal Quest"
+authors="Daniks"
+description='''
+Мод, добавляющий систему активации порталов через жертвоприношения предметов.
+'''
+
+[[dependencies.portalquest]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.185,)"
+ordering="NONE"
+side="BOTH"
